@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 6",
+            "price": 5000000,
+            "quantity": 10,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-600x600-600x600-600x600.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone X",
+            "price": 8000000,
+            "quantity": 15,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoORfBDyI7797HwaC8D8rNNZf9bKun3E4RIA&s"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 11 Promax",
+            "price": 10000000,
+            "quantity": 18,
+            "image": "https://i5.walmartimages.com/seo/Refurbished-Apple-iPhone-11-Pro-Max-A2161-Fully-Unlocked-256GB-Space-Gray-Grade-A_a8841470-4447-40a0-87d2-d50b42c9308e.b09ca91c1be6c5aa113cdb52173a52d3.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "iPhone 12",
+            "price": 15000000,
+            "quantity": 22,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-12.png"
+        },
+        {
+            "id": 5,
+            "name": "iPhone 14",
+            "price": 20000000,
+            "quantity": 25,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg"
+        }
+    ]
+}
